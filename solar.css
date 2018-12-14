@@ -1,0 +1,77 @@
+body{
+background-image:url('sol.jpg');
+background-size: cover;
+	background-position: center;
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+	height: 100vh;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+  overflow: hidden;
+  margin-left: 37%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+   font-size:30px;
+}
+
+li a:hover {
+  background-color: #123455;
+  border:1px solid white;
+}
+.middle
+{
+	font-family:algerian;
+	color: #ff3333;
+	text-align: center;
+	font-size:30px;
+}
+.hello
+{
+	
+	color:white;
+	font-size: 20px;
+	text-align: center;
+	margin-left:30%;
+	margin-right:30%;
+	border:2px solid white;
+	
+}
+.about
+{
+	font-family:algerian;
+	color: #ff3333;
+	text-align: center;
+	font-size:30px;
+}
+.it
+{ color: white;
+	font-size: 20px;
+	text-align: center;
+	margin-left:30%;
+	margin-right:30%;
+	border:2px solid white;
+}
+.know {
+  color: white;
+  text-align: center;
+
+  text-decoration: none;
+   font-size: 40px;
+   margin-left:40%;
+   border: 1px solid orange;
+}
+.know:hover
+{  background-color: #123455;
+}
